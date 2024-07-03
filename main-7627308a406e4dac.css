@@ -1,8 +1,8 @@
 @font-face {
     font-family: "HarmonyOS_SansSC";
     src:
-      url("Teleprompter/assets/fonts/HarmonyOS_SansSC_Light.ttf"),
-      url("Teleprompter/assets/fonts/HarmonyOS_SansSC_Medium.ttf");
+      url("./assets/fonts/HarmonyOS_SansSC_Light.ttf"),
+      url("./assets/fonts/HarmonyOS_SansSC_Medium.ttf");
 }
 :root{
     --main-color: #386ace;
